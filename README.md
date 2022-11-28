@@ -11,8 +11,8 @@ This project combines **YOLOv2**([reference](https://arxiv.org/abs/1506.02640)) 
 to realise **real time video detection**.
 
 It is part of an academic assigment from the Master's Degree of Deep Learning for Audio and Video Signal Processing of 
-the Autonomous University of Madrid. Concretely from the Deep Learning for Image Signal Processing. 
-The objective for this assignment is to compare Seq-NMS-Yolov2 against just using Yolov2 approaches for video object detection task
+the Autonomous University of Madrid. Concretely, from the Deep Learning for Image Signal Processing subject.
+The objective for this assignment is to compare Seq-NMS-Yolov2 against just using Yolov2 approaches for video object detection task.
 
 ## Steps
 
