@@ -23,7 +23,7 @@ The objective for this assignment is to compare Seq-NMS-Yolov2 against just usin
 2. Change to the repository directory: `cd seq_nms_yolo-main` if local repository or `cd seq_nms_yolo` if remote repository.
 
 3. Create virtual environment based on the `seq_nms_yolo.yml` file by running:
-   1. `conda env create -f lab2_DL4VSP.yml -n <your_env_name>`.
+   1. `conda env create -f seq_nms_yolo.yml -n <your_env_name>`.
    2. `conda activate <your_env_name>`
 
 4. Modify `Makefile` using your own configuration:
